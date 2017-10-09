@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 TEST, YEAH!!!
+=======
+TEST, YEAH!!!
+>>>>>>> 98b24c52244e6143f0a5bb63ff4fd832664025b7
 =======
 TEST, YEAH!!!
 >>>>>>> 98b24c52244e6143f0a5bb63ff4fd832664025b7
